@@ -1,5 +1,5 @@
-// Please include header (lab21.h) here.
-
+// Please include header (lab19.h) here.
+#include "lab19.h"
 int main(){
 	srand(time(0));
 	Unit hero,mons;
@@ -47,4 +47,4 @@ int main(){
 		turn_count++;
 	}
 	return 0;
-}
+} 
